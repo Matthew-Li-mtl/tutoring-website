@@ -7,7 +7,7 @@ const root = document.getElementById("root") as HTMLElement;
 
 ReactDOM.createRoot(root).render(
   
-  <BrowserRouter>
+  <BrowserRouter basename="/tutoring">
     
       <App />
   </BrowserRouter>,
