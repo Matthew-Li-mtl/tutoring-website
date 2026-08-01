@@ -15,7 +15,7 @@ export default function Home() {
 
 
           <div id="headshot" className="center container col-span-6 md:col-span-2 rounded-4xl p-8">
-            <img className="rounded-full object-cover" src="src/assets/headshot-rectangle.png"></img>
+            <img className="rounded-full object-cover" src="public/headshot-rectangle.png"></img>
           </div>
           <div id="aboutMe" className="container col-span-6 md:col-span-4 rounded-4xl">
             <div className="content-container p-8">
