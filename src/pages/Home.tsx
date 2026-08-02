@@ -44,7 +44,7 @@ export default function Home() {
               <p className="fira-sans-regular">
                 <ul className="bulleted">
                   <li>
-                    My lessons are 100% student centered. Before any new material, I’ll always assess the student to meet them where they are. We’ll do the necessary practice to build strong foundations from wherever they are at. But my favorite part about tutoring is having the dynamic conversations; constantly emphasizing the whys and having the student teach back any new or difficult content we cover. I also like having these conversations because it gives room for so many perspectives on the same topic…if the test throws a curve ball, the concept won’t freeze up.
+                    My lessons are 100% student centered. Before any new material, I’ll always assess the student to meet them where they are. We’ll do the necessary practice and build strong foundations. But my favorite part about tutoring is having the dynamic conversations; constantly emphasizing the whys and having the student teach back any new or difficult content we cover. I also like having these conversations because it gives room for so many perspectives on the same topic.
                   </li>
                   <li>
                     During my lessons I love to leverage learning-related psychology that I’ve picked up on – mostly from AP Psych, some from other educator’s suggestions. Little commitments like semantic encoding or spaced repetition make a big impact on understanding.
@@ -56,7 +56,7 @@ export default function Home() {
                     Currently, I’m <a className="underline">only offering virtual sessions</a> through Google Meets or Zoom. I use tools like my tablet and Desmos to help show things, and photosharing through messages or email to see any of the student’s handwritten work. 
                   </li>
                   <li>
-                    After every session, I’ll give you/your student a set of personalized notes, study resources, and targeted practice based on what we did that day. I know your studying time is limited, so I want to help you make the most of it.
+                    After every session, I’ll give you/your student a set of personalized notes, study resources, and/or targeted practice based on what we did that day. I know your studying time is limited, so I want to help you make the most of it.
                   </li>
                 </ul>
               </p>

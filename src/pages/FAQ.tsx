@@ -43,7 +43,7 @@ export default function FAQ() {
             </div>
 
             <div className="center container col-span-6 rounded-4xl p-8">
-                <h1 className="fira-sans-semibold"><Link to="/" className="underline">Back to home page</Link></h1>
+                <h1 className="fira-sans-semibold"><Link to="https://matthew-li-mtl.github.io/tutoring-website/" className="underline">Back to home page</Link></h1>
             </div>
 
         </div>

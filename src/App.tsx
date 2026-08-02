@@ -10,12 +10,14 @@ import TeachingExamples from "./pages/TeachingExamples";
 import Calendar from "./pages/Calendar";
 import ScrollToTop from "./ScrollToTop";
 import FAQ from "./pages/FAQ";
+//import { RootSlashFix } from "./RootSlashFix";
 
 function App() {
 
   return (
     <>
         <ScrollToTop />
+        
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/teachingexamples" element={<TeachingExamples />} />
