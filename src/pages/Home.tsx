@@ -44,13 +44,10 @@ export default function Home() {
               <p className="fira-sans-regular">
                 <ul className="bulleted">
                   <li>
-                    My lessons are 100% student centered. Before any new material, I’ll always assess the student to meet them where they are. We’ll do the necessary practice and build strong foundations. But my favorite part about tutoring is having the dynamic conversations; constantly emphasizing the whys and having the student teach back any new or difficult content we cover. I also like having these conversations because it gives room for so many perspectives on the same topic.
+                    My lessons are 100% student centered. Before any new material, I’ll always assess the student to meet them where they are. We’ll do the necessary practice and build strong foundations at the pace the student needs. 
                   </li>
                   <li>
-                    During my lessons I love to leverage learning-related psychology that I’ve picked up on – mostly from AP Psych, some from other educator’s suggestions. Little commitments like semantic encoding or spaced repetition make a big impact on understanding.
-                  </li>
-                  <li>
-                    Errors tend to fall into two categories: gaps in understanding and missteps. Most of our time together will be addressing the student’s understanding of the material, but we’ll also spend some time simulating tests and testing strategies to reduce the chance of missteps.
+                    We’ll spend some time simulating tests and testing strategies to reduce the chance of missteps. 
                   </li>
                   <li>
                     Currently, I’m <a className="underline">only offering virtual sessions</a> through Google Meets or Zoom. I use tools like my tablet and Desmos to help show things, and photosharing through messages or email to see any of the student’s handwritten work. 
@@ -70,7 +67,7 @@ export default function Home() {
           </div>
 
           <div className="center container col-span-6 md:col-span-2 rounded-4xl p-8">
-            <p id="pricing1" className="fira-sans-semibold">$50/hour</p>
+            <p id="pricing1" className="fira-sans-semibold">$40/hour</p>
           </div>
           <div className="flex flex-col justify-center fira-sans-regular container col-span-6 md:col-span-4 rounded-4xl p-8">
             <p id="pricing2" className="text-left">First hour free!</p>
