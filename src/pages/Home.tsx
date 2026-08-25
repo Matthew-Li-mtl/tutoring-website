@@ -29,7 +29,7 @@ export default function Home() {
                 <br />
                 <b>What I tutor</b>
                 <br />
-                In my two years of experience with private tutoring, I’ve taught four grades of math up to algebra 2. I’m currently looking to tutor higher level math, especially AP Precalculus and Calculus BC, because that’s where the really interesting conversations happen. I am also looking to tutor AP Computer Science (Principles and A).
+                In my two years of experience with private tutoring, I’ve taught four grades of math up to algebra 2. I’m currently looking to tutor higher level math, especially AP Precalculus and Calculus BC. I am also interested in tutoring AP Computer Science (Principles and A).
               </p>
             </div>
           </div>
@@ -85,7 +85,7 @@ export default function Home() {
           </div>
 
           <div className="center col-span-6">
-            <p className="gridFooter">This website was programmed by myself using react, tailwind, and vite. Check out my other coding projects <a className="gridFooter underline" href="https://github.com/Matthew-Li-mtl">here!</a></p>
+            <p className="gridFooter">This website was programmed by myself using react and tailwind. Check out my other coding projects <a className="gridFooter underline" href="https://github.com/Matthew-Li-mtl">here!</a></p>
           </div>
 
         </div>
