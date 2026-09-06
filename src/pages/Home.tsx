@@ -44,13 +44,13 @@ export default function Home() {
               <p className="fira-sans-regular">
                 <ul className="bulleted">
                   <li>
-                    My lessons are 100% student centered. Before any new material, I’ll always assess the student to meet them where they are. We’ll do the necessary practice and build strong foundations at the pace the student needs. 
+                    My lessons are 100% student centered. I’ll always assess the student to meet them where they are. We’ll do the necessary practice and build strong foundations at the pace the student needs.
                   </li>
                   <li>
                     We’ll spend some time simulating tests and testing strategies to reduce the chance of missteps. 
                   </li>
                   <li>
-                    Currently, I’m <a className="underline">only offering virtual sessions</a> through Google Meets or Zoom. I use tools like my tablet and Desmos to help show things, and photosharing through messages or email to see any of the student’s handwritten work. 
+                    Currently, I’m <a className="underline">only offering virtual sessions</a> through Google Meets or Zoom. I use tools like my tablet and Desmos to help show things, and photosharing through messages or email so the student can share their handwritten work.
                   </li>
                   <li>
                     After every session, I’ll give you/your student a set of personalized notes, study resources, and/or targeted practice based on what we did that day. I know your studying time is limited, so I want to help you make the most of it.
@@ -72,6 +72,18 @@ export default function Home() {
           <div className="flex flex-col justify-center fira-sans-regular container col-span-6 md:col-span-4 rounded-4xl p-8">
             <p id="pricing2" className="text-left">First hour free!</p>
             <p>I'm confident that you'll find my service satisfactory. Let's meet up for a free one hour of consultation and tutoring.</p>
+          </div>
+
+          <div id="testimonial" className="container col-span-6 rounded-4xl">
+            <div className="content-container p-8">
+              <a className="fira-sans-black">
+                "
+                <a className="fira-sans-regular !italic">
+                  I started having tutoring sessions with Matthew around the middle of seventh grade, when I was taking pre-algebra. I was struggling towards the end of the first semester, but after working with Matthew, my understanding for the material became stronger and I found more success on my exams. Matthew is really patient and he was very good at explaining things thoroughly.  He would also give me practice problems to prove that I understood the concepts. He was always super flexible with my schedule, and he would work on what I was struggling with or what I’d be tested on rather than having a set curriculum.  He was a great mentor and I often look back at the test prep bullet points he wrote for me on a sticky note.
+                </a>
+                "
+              </a>
+            </div>
           </div>
 
           <div id="faqlink" className="center container col-span-6 rounded-4xl p-4">
