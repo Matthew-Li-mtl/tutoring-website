@@ -24,12 +24,13 @@ export default function Home() {
                 Hi! I’m Matthew, computer science freshman at UCSB. It’s so great to finally meet you!
                 <br />
                 <br />
-                In high school I took multivariable calculus, linear algebra, and discrete math through my local college. I’m confident that the same studying and test-taking strategies that helped me through these courses will create breakthroughs for you/your student, because they have before. I also scored a 5 across all 8 AP exams I took, including Calculus BC, Statistics, and Computer Science A. I’ve crammed many times before for these, so feel free to shoot a message if you feel anxious!                
-                <br />
-                <br />
-                <b>What I tutor</b>
-                <br />
                 In my two years of experience with private tutoring, I’ve taught four grades of math up to algebra 2. I’m currently looking to tutor higher level math, especially AP Precalculus and Calculus BC. I am also interested in tutoring AP Computer Science (Principles and A).
+                <br />
+                <br />
+                I’m currently looking to tutor higher level math, especially AP Precalculus and Calculus BC. I am also interested in tutoring AP Computer Science (Principles and A).
+                <br />
+                <br />
+                In high school I took multivariable calculus, linear algebra, and discrete math through my local college. I’m confident that the same studying and test-taking strategies that helped me through these courses will create breakthroughs for you/your student, because they have before. I also scored a 5 across all 8 AP exams I took, including Calculus BC, Statistics, and Computer Science A. I’ve crammed many times before for these, so feel free to shoot a message if you feel anxious!                
               </p>
             </div>
           </div>
