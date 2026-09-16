@@ -24,7 +24,7 @@ export default function Home() {
                 Hi! I’m Matthew, computer science freshman at UCSB. It’s so great to finally meet you!
                 <br />
                 <br />
-                In my two years of experience with private tutoring, I’ve taught four grades of math up to algebra 2. I’m currently looking to tutor higher level math, especially AP Precalculus and Calculus BC. I am also interested in tutoring AP Computer Science (Principles and A).
+                In my two years of experience with private tutoring, I’ve taught four grades of math up to algebra 2. I also founded my school’s Competitive Programming Club, where for three years I worked one-on-one with students and gave short lectures.
                 <br />
                 <br />
                 I’m currently looking to tutor higher level math, especially AP Precalculus and Calculus BC. I am also interested in tutoring AP Computer Science (Principles and A).
