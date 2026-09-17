@@ -75,12 +75,23 @@ export default function Home() {
             <p>I'm confident that you'll find my service satisfactory. Let's meet up for a free one hour of consultation and tutoring.</p>
           </div>
 
-          <div id="testimonial" className="container col-span-6 rounded-4xl">
-            <div className="content-container p-8">
-              <a className="fira-sans-black">
+          <div id="testimonial" className="container col-span-3 rounded-4xl">
+            <div className="content-container p-8 !text-[16px]">
+              <a className="fira-sans-black !text-[16px]">
                 "
-                <a className="fira-sans-regular !italic">
+                <a className="fira-sans-regular !italic !text-[16px]">
                   I started having tutoring sessions with Matthew around the middle of seventh grade, when I was taking pre-algebra. I was struggling towards the end of the first semester, but after working with Matthew, my understanding for the material became stronger and I found more success on my exams. Matthew is really patient and he was very good at explaining things thoroughly.  He would also give me practice problems to prove that I understood the concepts. He was always super flexible with my schedule, and he would work on what I was struggling with or what I’d be tested on rather than having a set curriculum.  He was a great mentor and I often look back at the test prep bullet points he wrote for me on a sticky note.
+                </a>
+                "
+              </a>
+            </div>
+          </div>
+          <div id="testimonial" className="container col-span-3 rounded-4xl">
+            <div className="content-container p-8 !text-[18px]">
+              <a className="fira-sans-black !text-[18px]">
+                "
+                <a className="fira-sans-regular !italic !text-[18px]">
+                  Matthew is a really great teacher! As someone who was under his guidance for three years, he has helped me learn a lot. Whenever he does lectures, he clarifies any questions excellently to help with understanding, and he is also great at explaining how to answer problems. In competitive programming club, he also helped us with problems during a competition and helped us understand the steps to the process. He is a great teacher and anyone he teaches is sure to learn a lot
                 </a>
                 "
               </a>

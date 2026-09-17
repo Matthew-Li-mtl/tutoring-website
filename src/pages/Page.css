@@ -12,6 +12,10 @@ p, a {
   font-size: 20px;
 }
 
+#text-sm {
+  font-size: 14px;
+}
+
 
 .linebreak {
   margin-bottom: 1em;
