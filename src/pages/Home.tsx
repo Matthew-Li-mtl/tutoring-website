@@ -21,16 +21,16 @@ export default function Home() {
             <div className="content-container p-8">
               <h1 className="text-center fira-sans-black">About me</h1><br/>
               <p className="fira-sans-regular">
-                Hi! I’m Matthew, computer science freshman at UCSB. It’s so great to finally meet you!
+                Hi! I’m Matthew, computer science student at UCSB. It’s so great to finally meet you!
                 <br />
                 <br />
                 In my two years of experience with private tutoring, I’ve taught four grades of math up to algebra 2. I also founded my school’s Competitive Programming Club, where for three years I worked one-on-one with students and gave short lectures.
                 <br />
                 <br />
-                I’m currently looking to tutor higher level math, especially AP Precalculus and Calculus BC. I am also interested in tutoring AP Computer Science (Principles and A).
+                I’m currently looking to tutor high school math, including AP Precalculus and Calculus BC. I am also interested in tutoring AP Computer Science (Principles and A).
                 <br />
                 <br />
-                In high school I took multivariable calculus, linear algebra, and discrete math through my local college. I’m confident that the same studying and test-taking strategies that helped me through these courses will create breakthroughs for you/your student, because they have before. I also scored a 5 across all 8 AP exams I took, including Calculus BC, Statistics, and Computer Science A. I’ve crammed many times before for these, so feel free to shoot a message if you feel anxious!                
+                In high school I took multivariable calculus, linear algebra, and discrete math through my local college. I’m confident that the same studying and test-taking strategies that helped me through these courses will create breakthroughs for you/your student, because they have before. I also scored a 5 across all 8 AP exams I took, including Computer Science A and Principles. I’ve crammed many times before for these, and I love sharing the strategies that made these possible! 
               </p>
             </div>
           </div>
