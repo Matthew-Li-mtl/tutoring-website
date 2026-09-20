@@ -51,7 +51,7 @@ export default function Home() {
                     We’ll spend some time simulating tests and testing strategies to reduce the chance of missteps. 
                   </li>
                   <li>
-                    Currently, I’m <a className="underline">only offering virtual sessions</a> through Google Meets or Zoom. I use tools like my tablet and Desmos to help show things, and photosharing through messages or email so the student can share their handwritten work.
+                    Currently, I’m <a className="underline">primarily offering virtual sessions</a> through Google Meets or Zoom. I use tools like my tablet and Desmos to help show things, and photosharing through messages or email so the student can share their handwritten work. If you would like to work with me in person, feel free to reach out and I'd be more than happy to discuss it.
                   </li>
                   <li>
                     After every session, I’ll give you/your student a set of personalized notes, study resources, and/or targeted practice based on what we did that day. I know your studying time is limited, so I want to help you make the most of it.

@@ -23,7 +23,7 @@ export default function FAQ() {
                         What is your cancellation policy?
                     </li>
                     <li>
-                        Please let me know 24 hours before the session for a full refund, otherwise you’ll be charged for half the cost of the session.                    </li>
+                        Please let me know 12 hours before the session for a full refund, otherwise you’ll be charged for half the cost of the session.                    </li>
                     <br />
                     <li className="fira-sans-medium">
                         Do you do a free intro/consultation session?
