@@ -68,7 +68,7 @@ export default function Home() {
           </div>
 
           <div className="center container col-span-6 md:col-span-2 rounded-4xl p-8">
-            <p id="pricing1" className="fira-sans-semibold">$40/hour</p>
+            <p id="pricing1" className="fira-sans-semibold">$30/hour</p>
           </div>
           <div className="flex flex-col justify-center fira-sans-regular container col-span-6 md:col-span-4 rounded-4xl p-8">
             <p id="pricing2" className="text-left">First hour free!</p>
